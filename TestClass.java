@@ -36,5 +36,6 @@ public class TestClass {
 		doWhileTest.loopPool(poolcounter,maxLimit);
 		forTest.loopPool(poolcounter,maxLimit);
 		whileTest.loopPool(poolcounter,maxLimit);
+		input.close();
 	}		
 }
